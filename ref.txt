@@ -1,0 +1,20 @@
+NEXTJS - Property Application
+
+Tech Stack 
+TypeScript: A strongly typed superset of JavaScript that helps catch errors during development.
+
+React: A JavaScript library for building interactive and component-based user interfaces.
+
+Ant Design: A React UI library offering elegant, ready-to-use components with a consistent design system.
+
+NextAuth: An authentication library for Next.js that supports multiple providers like Google, GitHub, and credentials.
+
+SQLite DB: A lightweight, file-based relational database engine ideal for development or small apps.
+
+Prisma ORM: A type-safe database toolkit for Node.js and TypeScript that simplifies database access using models.
+
+Cloudinary: A cloud-based service for uploading, storing, transforming, and delivering images and videos.
+
+Requirements
+-Basic NextJS/React
+-Basic TypeScript
